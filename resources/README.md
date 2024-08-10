@@ -2,9 +2,9 @@
 
 # front end
   React frame work
-  Tailwind CSS
-  Redux
+  | Tailwind CSS
+  | Redux
   
 # Back end
   Node Express api
-  MongoDB
+  | MongoDB
