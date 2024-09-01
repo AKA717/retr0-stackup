@@ -2,7 +2,7 @@
 
 # 📇 Contact Manager
 
-This is a web application where users can store and manage their contacts with features like add, edit, and delete. 
+This is a web application where users can store and manage their contacts with features like add, edit, and delete.
 
 ---
 
@@ -37,10 +37,13 @@ This is a web application where users can store and manage their contacts with f
 
 ---
 
-## 📚 Libraries Used
+## 🛠️ Tech Stack
 
 - **Frontend**: React, Vite ⚛️
+- **State Management**: Redux 🗂️
+- **Styling**: Tailwind CSS 🎨
 - **Backend**: Node.js, Express.js 🌐
+- **Database**: MongoDB 🗄️
 
 ---
 
