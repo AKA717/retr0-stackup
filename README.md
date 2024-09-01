@@ -57,5 +57,5 @@ This is a web application where users can store and manage their contacts with f
 
    ```bash
    git clone https://github.com/retr0717/retr0-stackup
-   cd frontend && npm i && npm run dev
-   cd backend && npm i && npm start
+   cd front-end && npm i && npm run dev
+   cd back-end && npm i && npm start
